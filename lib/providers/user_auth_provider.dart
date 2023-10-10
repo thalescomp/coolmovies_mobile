@@ -1,6 +1,7 @@
-import 'package:coolmovies_mobile/models/user.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+
+import 'package:coolmovies_mobile/models/user.dart';
 
 class UserAuthNotifier extends StateNotifier<Map<String, dynamic>> {
   UserAuthNotifier() : super({'isLogged': false, 'isLoginSkipped': false});
