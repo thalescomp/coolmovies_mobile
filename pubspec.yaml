@@ -39,6 +39,7 @@ dependencies:
   intl: ^0.18.1
   flutter_riverpod: ^2.4.3
   flutter_secure_storage: ^9.0.0
+  flutter_rating_bar: ^4.0.1
 
 dev_dependencies:
   flutter_test:
