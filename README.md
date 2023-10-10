@@ -49,4 +49,10 @@ Follow these steps to run the project on your local machine:
     flutter pub get
     ```
 
-4. **Explore the Application**: Open the application on your emulator/device and start exploring the list of movies, log in, and try out all the available features.
+4. **Start the App**: You can now launch the app on an emulator or physical device using the following command:
+
+    ```bash
+    flutter run
+    ```
+
+5. **Explore the Application**: Open the application on your emulator/device and start exploring the list of movies, log in, and try out all the available features.
